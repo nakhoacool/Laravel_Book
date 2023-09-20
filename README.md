@@ -9,8 +9,6 @@
 
 # Online Book Viewing Platform with Laravel
 
-A web application built with the Laravel framework for viewing books online.
-
 ## Table of Contents
 
 - [Introduction](#introduction)
