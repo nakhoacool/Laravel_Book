@@ -51,8 +51,6 @@ To get started with this project, follow these steps:
 5. Access the application in your web browser
 
 ## Dependencies
-
-List the key dependencies your project relies on:
 - Laravel Framework
 - Laravel Mix (for asset compilation)
 - Bootstrap
